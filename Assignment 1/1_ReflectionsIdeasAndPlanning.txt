@@ -1,0 +1,14 @@
+
+I feel like a solution for this problem is a simple drawing app thats combined with google maps. 
+You draw a rough estimate of a trail you want to go and how far you want to go and the app transforms it into a route that you can follow.
+
+I feel like having a paid version of an app with no ads and a free version with packages is the simplest way to solve the compensation problem.
+When you have an app that only allows entrance with payment you shrink the potential list of customers that you can have. 
+In the case that you have a free app with packages you get to have your cake and eat it too. 
+For example the free app can only use a scanner app once an hour but if you pay for the super edition you get unlimited uses. 
+I think the tesla home page has an amazingly sleek and clear ui/ux. When you first arrive at the page you are introduced with a nice picture of the first product in the list. 
+You are also presented with all the products available so there is no looking around for the product you want. 
+As you scroll down you are showered with nice animation and pictures of the inside of the car and its parts. 
+
+Although my idea has not changed, which is an app that displays an embedded ikea video for each product. 
+Having these discussions made me think more and more about functionality and ask more questions about the purpose of the app. 

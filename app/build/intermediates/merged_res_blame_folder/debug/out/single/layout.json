@@ -1,26 +1,26 @@
 [
     {
-        "merged": "C:\\Users\\Ambioris\\Desktop\\App\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_4.xml",
-        "source": "C:\\Users\\Ambioris\\Desktop\\App\\app\\src\\main\\res\\layout\\activity_4.xml"
+        "merged": "C:\\Users\\Ambioris\\Desktop\\Assignment 3\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_2.xml",
+        "source": "C:\\Users\\Ambioris\\Desktop\\Assignment 3\\app\\src\\main\\res\\layout\\activity_2.xml"
     },
     {
-        "merged": "C:\\Users\\Ambioris\\Desktop\\App\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_3.xml",
-        "source": "C:\\Users\\Ambioris\\Desktop\\App\\app\\src\\main\\res\\layout\\activity_3.xml"
+        "merged": "C:\\Users\\Ambioris\\Desktop\\Assignment 3\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\homebutton.xml",
+        "source": "C:\\Users\\Ambioris\\Desktop\\Assignment 3\\app\\src\\main\\res\\layout\\homebutton.xml"
     },
     {
-        "merged": "C:\\Users\\Ambioris\\Desktop\\App\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
-        "source": "C:\\Users\\Ambioris\\Desktop\\App\\app\\src\\main\\res\\layout\\activity_main.xml"
+        "merged": "C:\\Users\\Ambioris\\Desktop\\Assignment 3\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Ambioris\\Desktop\\Assignment 3\\app\\src\\main\\res\\layout\\activity_main.xml"
     },
     {
-        "merged": "C:\\Users\\Ambioris\\Desktop\\App\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_2.xml",
-        "source": "C:\\Users\\Ambioris\\Desktop\\App\\app\\src\\main\\res\\layout\\activity_2.xml"
+        "merged": "C:\\Users\\Ambioris\\Desktop\\Assignment 3\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_3.xml",
+        "source": "C:\\Users\\Ambioris\\Desktop\\Assignment 3\\app\\src\\main\\res\\layout\\activity_3.xml"
     },
     {
-        "merged": "C:\\Users\\Ambioris\\Desktop\\App\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\content_main.xml",
-        "source": "C:\\Users\\Ambioris\\Desktop\\App\\app\\src\\main\\res\\layout\\content_main.xml"
+        "merged": "C:\\Users\\Ambioris\\Desktop\\Assignment 3\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\content_main.xml",
+        "source": "C:\\Users\\Ambioris\\Desktop\\Assignment 3\\app\\src\\main\\res\\layout\\content_main.xml"
     },
     {
-        "merged": "C:\\Users\\Ambioris\\Desktop\\App\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\homebutton.xml",
-        "source": "C:\\Users\\Ambioris\\Desktop\\App\\app\\src\\main\\res\\layout\\homebutton.xml"
+        "merged": "C:\\Users\\Ambioris\\Desktop\\Assignment 3\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_4.xml",
+        "source": "C:\\Users\\Ambioris\\Desktop\\Assignment 3\\app\\src\\main\\res\\layout\\activity_4.xml"
     }
 ]

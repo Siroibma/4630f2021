@@ -1,0 +1,29 @@
+com/example/helloworld/databinding/ContentMainBinding.java
+ com.example.helloworld.databinding.ContentMainBinding
+com/example/helloworld/BuildConfig.java
+ com.example.helloworld.BuildConfig
+com/example/helloworld/databinding/Activity4Binding.java
+ com.example.helloworld.databinding.Activity4Binding
+com/example/helloworld/databinding/HomebuttonBinding.java
+ com.example.helloworld.databinding.HomebuttonBinding
+com/example/helloworld/databinding/Activity3Binding.java
+ com.example.helloworld.databinding.Activity3Binding
+com/example/helloworld/databinding/Activity2Binding.java
+ com.example.helloworld.databinding.Activity2Binding
+com/example/helloworld/databinding/ActivityMainBinding.java
+ com.example.helloworld.databinding.ActivityMainBinding
+com/example/helloworld/Activity3.java
+ com.example.helloworld.Activity3
+ com.example.helloworld.Activity3$1
+com/example/helloworld/MainActivity.java
+ com.example.helloworld.MainActivity
+ com.example.helloworld.MainActivity$1
+ com.example.helloworld.MainActivity$2
+ com.example.helloworld.MainActivity$3
+ com.example.helloworld.MainActivity$4
+com/example/helloworld/Activity4.java
+ com.example.helloworld.Activity4
+ com.example.helloworld.Activity4$1
+com/example/helloworld/Activity2.java
+ com.example.helloworld.Activity2
+ com.example.helloworld.Activity2$1

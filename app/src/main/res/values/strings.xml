@@ -1,0 +1,42 @@
+<resources>
+    <string name="major">Computer Science</string>
+    <string name="name">Ambioris Lora</string>
+    <string name="descriptor">A picture of me</string>
+    <string name="resume">Resume</string>
+    <string name="weather">Weather</string>
+    <string name="stocks">Stocks</string>
+    <string name="facts">Facts</string>
+    <string name="Home">Home</string>
+    <string name="title_activity_main2">MainActivity2</string>
+
+    <string name="current_location">Lawrence, Mass - 50f</string>
+    <string name="born">Manhattan, New York - 48f</string>
+    <string name="LikeToBe">Sweden - 47f</string>
+    <string name="Family">Dominican Republic - 47f</string>
+    <string name="Puerto">Puerto Rico - 81f</string>
+
+    <string name="Fact1">Born in Manhattan</string>
+    <string name="Fact2">Live in Lawrence Mass</string>
+    <string name="Fact3">I would like to live somewhere in Europe</string>
+    <string name="Fact4">My significant other is from Mass</string>
+    <string name="Fact5">I am a computer science Student</string>
+    <string name="Fact6">I am 22</string>
+    <string name="Fact7">I can put my legs behind my head</string>
+    
+    
+    <string name="Stock1">I primarily own dogecoin</string>
+    <string name="Stock2">I also own 300$ of Vanguard Index Fund</string>
+    <string name="Stock3">Brother owns 1 bitcoin</string>
+    <string name="Stock4">Mom 500 in PSTI</string>
+    <string name="Stock5">Dad 700 in TSLA</string>
+
+
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>

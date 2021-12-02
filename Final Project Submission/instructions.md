@@ -1,4 +1,4 @@
-How To Run My App
+                                                            How To Run My App
 1.	Make sure you have react native installed on your computer. If you don’t follow this link’s instruction. Make sure you select “React Native CLI Quickstart” not “Expo CLI Quickstart”. https://archive.reactnative.dev/docs/getting-started
 2.	Make sure you have an emulator to run the app. The instructions to do this can also be found at https://archive.reactnative.dev/docs/getting-started
 3.	Once you have react native setup on your you local system and you have my source file downloaded from github you can cd into it. “cd Final Project Submission” is the command to do that
@@ -8,7 +8,7 @@ How To Run My App
 Note if there are any questions I believe the getting started link above should solve any possible issues but I believe that is all that is needed to run this project.
 
 
-How To Use My App
+                                                            How To Use My App
 
 1. I believe the app itself is self explainatory. 
 2. There's a list of furniture and if you want to see information or videos on them you click on details.

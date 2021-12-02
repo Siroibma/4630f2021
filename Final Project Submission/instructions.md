@@ -6,3 +6,10 @@ How To Run My App
 5.	Once this is all done you should see a emulated phone running the app.
 
 Note if there are any questions I believe the getting started link above should solve any possible issues but I believe that is all that is needed to run this project.
+
+
+How To Use My App
+
+1. I believe the app itself is self explainatory. 
+2. There's a list of furniture and if you want to see information or videos on them you click on details.
+3. There's also a pdf button that sends you to the ikea pdf page of that specific furniture

@@ -1,4 +1,4 @@
-                                                                                How To Run My App
+How To Run My App
 1.	Make sure you have react native installed on your computer
       a.	If you don’t follow this link’s instruction. Make sure you select “React Native CLI Quickstart” not “Expo CLI Quickstart”
 b.	https://archive.reactnative.dev/docs/getting-started

@@ -1,10 +1,13 @@
 How To Run My App
 1.	Make sure you have react native installed on your computer
+      
       a.	If you don’t follow this link’s instruction. Make sure you select “React Native CLI Quickstart” not “Expo CLI Quickstart”
 b.	https://archive.reactnative.dev/docs/getting-started
 2.	Make sure you have an emulator to run the app.
-     a.	The instructions to do this can also be found at https://archive.reactnative.dev/docs/getting-started
+   
+   a.	The instructions to do this can also be found at https://archive.reactnative.dev/docs/getting-started
 3.	Once you have react native setup on your you local system and you have my source file downloaded from github you can cd into it. 
+     
      a.	“cd Final Project Submission” is the command to do that
 4.	The final step to run my project is to use “react-native run-android”
 5.	Once this is all done you should see a emulated phone running the app.

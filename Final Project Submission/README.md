@@ -9,14 +9,12 @@ Note if there are any questions I believe the getting started link above should 
 
 
                                                             How To Use My App
-
 1. I believe the app itself is self explainatory. 
 2. There's a list of furniture and if you want to see information or videos on them you click on details.
 3. There's also a pdf button that sends you to the ikea pdf page of that specific furniture
 
 
                                                           Information For The Grader
-
 1. The short report is in ShortReport.docx
 2. There is no .apx but the react native exectuable.
 3. I worked by myself

@@ -15,7 +15,7 @@ Note if there are any questions I believe the getting started link above should 
 3. There's also a pdf button that sends you to the ikea pdf page of that specific furniture
 
 
-                                                            Information For The Grader
+                                                           Information For The Grader
 
 1. The short report is in ShortReport.docx
 2. There is no .apx but the react native exectuable.

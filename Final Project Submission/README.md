@@ -5,7 +5,7 @@
 4.	The final step to run my project is to use “react-native run-android”
 5.	Once this is all done you should see a emulated phone running the app.
 
-Note if there are any questions I believe the getting started link above should solve any possible issues but I believe that is all that is needed to run this project.
+Note: If there are any questions I believe the getting started link above should solve any possible issues but I believe that is all that is needed to run this project.
 
 
                                                             How To Use My App
@@ -13,7 +13,7 @@ Note if there are any questions I believe the getting started link above should 
 2. There's a list of furniture and if you want to see information or videos on them you click on details.
 3. There's also a pdf button that sends you to the ikea pdf page of that specific furniture
 
-
+Note: There are three pages in total. The main page with furniture, the video/detail page and a pdf page
 
                                                           Information For The Grader
 1. The short report is in ShortReport.docx
